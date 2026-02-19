@@ -1,12 +1,10 @@
 # Hi, I'm Kevin
 
-Android native Mobile Engineer
-
-
+I am an Android native Mobile Engineer
 
 ## Things that make me, me
 
-* I love creating beutfull mobile UI designs
+* I love creating beautiful mobile UI designs
 
 ## Tech Stack :computer: (My Skills)
 
