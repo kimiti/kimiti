@@ -1,12 +1,8 @@
 # Hi, I'm Kevin
 
-I am an Android native Mobile Engineer
+Android Developer
 
-## Things that make me, me
-
-* I love creating beautiful mobile UI designs
-
-## Tech Stack :computer: (My Skills)
+## Tech Stack :computer
 
 <table>
 <tr>
